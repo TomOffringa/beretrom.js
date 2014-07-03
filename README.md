@@ -1,2 +1,1 @@
-beretrom.js
-===========
+# :bear: Beretrom.js
